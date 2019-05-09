@@ -1,8 +1,8 @@
 # SimplonDataIA
 
 
-### FORMATION SIMPLON DEVELOPPEUR(SE) DATA IA 
+# FORMATION SIMPLON DEVELOPPEUR(SE) DATA IA 
 
-# Introduction
+## Introduction
 
-# Programme
+## Programme
