@@ -3,9 +3,9 @@
 
 # FORMATION SIMPLON DEVELOPPEUR(SE) DATA IA 
 
-## Introduction
+## INTRODUCTION
 
-## Programme
+## PROGRAMME
 ### Rappels de mathématiques
 ### Introduction au langage Python
 ### Introduction au langage R
